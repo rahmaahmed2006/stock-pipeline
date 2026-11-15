@@ -10,7 +10,10 @@ pandas==3.1.1
 peewee==4.5.3
 platformdirs==4.14.5
 protobuf==7.36.2
+py4j==0.10.9.9
+pyarrow==26.0.1
 pycparser==3.12
+pyspark==4.3.0
 python-dateutil==4.0.0
 pytz==2026.6
 requests==2.34.2

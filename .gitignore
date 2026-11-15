@@ -5,3 +5,6 @@ raw/
 *.pyc
 test_one.py
 test_save.py
+curated/
+test_*.py
+check_parquet.py
