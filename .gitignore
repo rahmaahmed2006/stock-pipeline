@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+logs/
+raw/
+*.pyc
+test_one.py
+test_save.py
